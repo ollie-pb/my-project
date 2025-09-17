@@ -75,6 +75,7 @@ for domain in \
     "stripe.com" \
     "statsig.anthropic.com" \
     "statsig.com" \
+    "supabase.com" \
     "marketplace.visualstudio.com" \
     "vscode.blob.core.windows.net" \
     "update.code.visualstudio.com"; do
